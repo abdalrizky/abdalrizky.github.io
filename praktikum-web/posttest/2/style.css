@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.container {
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.menu-list {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+.menu-list td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.menu-list th {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+#restaurant-logo {
+    width: 200px;
+}
+
+.invoice-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box {
+    background-color: #ddd;
+    padding: 16px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
+
+.buyer-address-shipping {
+    margin-bottom: 16px;
+}
+
+.buyer-address-shipping-title {
+    margin-bottom: 4px;
+}
+
+.buyer-address-shipping-content {
+    line-height: 1.7;
+}
+
+.invoice-menu-item {
+    display: flex;
+    align-items: center;
+}
+
+.invoice-menu-item > p {
+    margin-left: 10px;
+}
+
+.currency {
+    text-align: start;
+}
+
+.nominal {
+    text-align: end;
+}
