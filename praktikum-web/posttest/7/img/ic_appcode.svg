@@ -1,0 +1,35 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="35" cy="35" r="35" fill="#E8EFFF"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="70" height="70">
+<circle cx="35" cy="35" r="35" fill="#E8EFFF"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="-20" y="28" width="68" height="48" rx="5" fill="#A9BCE9"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="-20" y="28" width="68" height="65">
+<rect x="-20" y="28" width="68" height="64.058" rx="5" fill="#A9BCE9"/>
+</mask>
+<g mask="url(#mask1)">
+<rect x="-21" y="25" width="70" height="14" fill="#8397CC"/>
+<rect x="4" y="42" width="11" height="2" rx="1" fill="#8397CC"/>
+<rect x="7" y="47" width="3" height="2" rx="1" fill="white"/>
+<rect x="12" y="49" width="15" height="2" rx="1" fill="#8397CC"/>
+<rect x="18" y="42" width="19" height="2" rx="1" fill="white"/>
+<rect x="7" y="56" width="24" height="2" rx="1" fill="white"/>
+<rect x="33" y="56" width="2" height="2" rx="1" fill="#8397CC"/>
+<rect x="37" y="56" width="9" height="2" rx="1" fill="#8397CC"/>
+<rect x="21" y="63" width="12" height="2" rx="1" fill="#8397CC"/>
+<rect x="35" y="63" width="2" height="2" rx="1" fill="white"/>
+</g>
+<circle cx="38" cy="34" r="2" fill="white"/>
+<circle cx="38" cy="34" r="2" fill="white"/>
+<circle cx="24" cy="34" r="2" fill="white"/>
+<circle cx="24" cy="34" r="2" fill="white"/>
+<circle cx="31" cy="34" r="2" fill="white"/>
+<circle cx="31" cy="34" r="2" fill="white"/>
+<circle cx="46" cy="27" r="16" fill="#3D58FF"/>
+<path d="M42.7499 28.8602V30.7269L36 27.8509V26.2546L42.7499 23.3786V25.2586L38.0464 27.0396L42.7499 28.8602Z" fill="white"/>
+<path d="M47.6103 23.3391L45.7316 30.9446C45.669 31.1953 45.6131 31.3931 45.5639 31.5383C45.5191 31.6834 45.4476 31.7955 45.3492 31.8747C45.2552 31.9582 45.1166 32 44.9332 32C44.4769 32 44.2488 31.8065 44.2488 31.4195C44.2488 31.3184 44.2935 31.0655 44.383 30.6609L46.255 23.0554C46.3534 22.6508 46.4473 22.3738 46.5368 22.2243C46.6262 22.0748 46.8007 22 47.0601 22C47.2838 22 47.4537 22.0528 47.57 22.1583C47.6908 22.2639 47.7512 22.409 47.7512 22.5937C47.7512 22.73 47.7042 22.9785 47.6103 23.3391Z" fill="white"/>
+<path d="M56 27.8509L49.2501 30.7401V28.8734L53.967 27.0528L49.2501 25.2586V23.405L56 26.2678V27.8509Z" fill="white"/>
+<circle cx="44.5" cy="31.5" r="16.35" stroke="white" stroke-width="0.3"/>
+</g>
+</svg>

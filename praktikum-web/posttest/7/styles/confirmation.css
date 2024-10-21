@@ -1,0 +1,42 @@
+@import "style.css";
+
+.logo {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 48px;
+    text-align: center;
+}
+
+.logo-koding {
+    color: orange;
+    font-style: italic;
+}
+
+.subtitle-text {
+    color: #8d8d8d;
+    margin-top: 4px;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.show-password {
+    text-align: center;
+    align-content: center;
+}
+
+.button {
+    display: inline-block;
+    height: 52px;
+    padding: 14px;
+    margin-top: 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: none;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}

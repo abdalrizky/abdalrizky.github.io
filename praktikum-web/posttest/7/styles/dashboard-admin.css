@@ -1,0 +1,115 @@
+@import 'style.css';
+
+body {
+    background-color: #f7f7f7;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 0;
+}
+
+.logout-button {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #002f9e;
+}
+
+.logout-button i {
+    margin-right: 16px;
+}
+
+.logo {
+    font-size: 40px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+.logo-koding {
+    color: orange;
+    font-style: italic;
+}
+
+.course-item {
+    display: flex;
+    height: 250px;
+    border: 1px solid #e0e0e0;
+    background-color: #fff;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+    border-radius: 16px;
+    margin-top: 16px;
+}
+
+.course-item:last-child {
+    margin-bottom: 16px;
+}
+
+.course-main-info {
+    display: flex;
+    align-items: center;
+}
+
+.course-main-info img {
+    width: 250px;
+    height: 150px;
+    object-fit: contain;
+    margin-right: 16px;
+    border-radius: 16px;
+}
+
+.course-main-info-category {
+    font-size: 16px;
+    color: #9f9f9f;
+}
+
+.course-action a {
+    margin-right: 16px;
+}
+
+.button-add-course {
+    background-color: #4CAF50;
+    color: white;
+    width: 100%;
+    padding: 12px 16px;
+
+    justify-content: center;
+    display: inline-flex;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.courses-not-found-message {
+    margin-top: 16px;
+}
+
+.search-input {
+    margin-top: 16px;
+    width: 100%;
+    height: 50px;
+    padding: 16px;
+    border-radius: 12px;
+    font-size: 20px;
+}
+
+.navbar-user-info {
+    display: inline-flex;
+}
+
+.navbar-user-info-email {
+    margin-right: 12px;
+}
+
+.hide {
+    display: none;
+}
